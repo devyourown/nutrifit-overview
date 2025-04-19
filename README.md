@@ -9,9 +9,9 @@
 
 | 모듈        | 설명                                          | 레포지토리 링크 |
 |-------------|-----------------------------------------------|------------------|
-| 🛍️ Frontend | 고객이 사용하는 쇼핑몰 (Next.js + TypeScript) | [nutrifit-front](https://github.com/devyourown/nutrifit-front) |
-| 🧠 Backend   | Spring Boot 기반 API 서버 (JAVA + JPA + PostgreSQL) | [nutrifit-mall](https://github.com/devyourown/nutrifit-mall) |
-| 🧾 Admin     | 운영자 상품 및 주문 관리 페이지 (Next.js + TypeScript) | [nutrifit-admin](https://github.com/devtourown/nutrifit-admin) |
+| 🛍️ Frontend | 고객이 사용하는 쇼핑몰 (Next.js + TypeScript) | [nutrifit_front](https://github.com/devyourown/nutrifit_front) |
+| 🧠 Backend   | Spring Boot 기반 API 서버 (JAVA + JPA + PostgreSQL) | [nutrifit_mall](https://github.com/devyourown/nutrifit_mall) |
+| 🧾 Admin     | 운영자 상품 및 주문 관리 페이지 (Next.js + TypeScript) | [nutrifit_admin](https://github.com/devtourown/nutrifit_admin) |
 
 ## ⚙️ 개발 환경 개요
 
